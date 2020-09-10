@@ -1,4 +1,4 @@
-# Grading-using--if-else-if-
+//# Grading-using--if-else-if-
 
 #include<stdio.h>
 void main()
